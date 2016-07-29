@@ -1,0 +1,2 @@
+# BST
+basic BST algorithm 
